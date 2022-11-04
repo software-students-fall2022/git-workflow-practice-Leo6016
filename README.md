@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# The Website
+https://en.wikipedia.org/wiki/Software_engineering
+The wikipedia page provides detailed information about software engineering.
